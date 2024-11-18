@@ -1,5 +1,4 @@
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function() {
     
       var galleryHeader = document.createElement("div");
       galleryHeader.classList.add("gallery-header"); 
@@ -68,5 +67,5 @@
     
       handleAnchorWrapping();
     });
-    </script>
+
     
